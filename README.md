@@ -1,6 +1,5 @@
-![Course](https://img.shields.io/badge/Course-SOC%20722-blue)
 ![Institution](https://img.shields.io/badge/Duke%20University-Sociology-012169)
-![Language](https://img.shields.io/badge/R-Programming-276DC3?logo=r)
+![Language](https://img.shields.io/badge/R-Stats-276DC3?logo=r)
 ![Quarto](https://img.shields.io/badge/Quarto-Documents-75AADB?logo=quarto)
 ![Data](https://img.shields.io/badge/Data-GSS%202022-green)
 
